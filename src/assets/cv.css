@@ -7,6 +7,22 @@ body {
     max-width: 700px;
     padding: 7%;
 }
+.profile_photo_container{
+    display: flex;
+    justify-content: center;
+}
+
+.profile_photo{
+  
+    width: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    height: 150px;
+}
+.profile_photo img{
+    width: 100%;
+   
+}
 
 p {
     margin: 0;
@@ -81,7 +97,7 @@ p.surname {
 
 .skills {
     display: flex;
-    margin: 15% 0;
+    margin: 20px 0;
 }
 
 .skills__description {
