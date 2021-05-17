@@ -51,7 +51,7 @@ a:visited{
 
 p.name {
     font-size: 25px;
-    flex: 0 0 80%;
+    flex: 1 1 80%;
     text-align: right;
     font-family: -webkit-pictograph;
     color: #b9b9b9;
@@ -59,7 +59,7 @@ p.name {
 }
 
 p.surname {
-    flex: 0 0 20%;
+   
     font-size: 25px;
     font-family: -webkit-pictograph;
     color: #737373;
@@ -88,7 +88,7 @@ p.surname {
     flex: 0 0 40%;
     font-family: -webkit-pictograph;
     color: #737373;
-    margin-left: 1%;
+    
 }
 
 .contacts img {
