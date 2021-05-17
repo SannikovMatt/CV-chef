@@ -172,3 +172,7 @@ p.surname {
     flex: 0 0 80%;
     align-self: center;
 }
+.right__side i {
+    font-size: 0.97em;
+ 
+}
